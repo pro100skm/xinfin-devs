@@ -3,22 +3,18 @@
 This is an open source blog for XinFin developers. Here you can find usefull links and tools. If you have something new to show, just create PR.
 
 ### Main links
-
-1) Blogs
-    - This blog - https://pro100skm.github.io/xinfin-devs/
-
-2) Telegram Chat
-    - XDC DEVs - https://t.me/xinfintech
-    - Leadity (web3 discussion) - https://t.me/leadity_code
-    - For DM - https://t.me/popovitsch
-
-3) XinFin explorers
-    - XinFin - https://explorer.xinfin.network/
-    - Blocksscan - https://xdc.blocksscan.io/
-
-4) Subgraphs
-    - Blocks - https://graph-node.yodaplus.net:8000/subgraphs/name/pro100skm/blocks/
-    - ERC20 Tokens - https://graph-node.yodaplus.net:8000/subgraphs/name/pro100skm/erc20/
+- Blogs
+  - This blog - https://pro100skm.github.io/xinfin-devs/
+- Telegram Chat
+  - XDC DEVs - https://t.me/xinfintech
+  - Leadity (web3 discussion) - https://t.me/leadity_code
+  - For DM - https://t.me/popovitsch
+- XinFin explorers
+  - XinFin - https://explorer.xinfin.network/
+  - Blocksscan - https://xdc.blocksscan.io/
+- Subgraphs
+  - Blocks - https://graph-node.yodaplus.net:8000/subgraphs/name/pro100skm/blocks/
+  - ERC20 Tokens - https://graph-node.yodaplus.net:8000/subgraphs/name/pro100skm/erc20/
 
 ### Markdown rules
 
